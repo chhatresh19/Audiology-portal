@@ -1,0 +1,5 @@
+{
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDelete": false,
+    "php.validate.executablePath": "C:\\xampp\\php\\php.exe"
+}
